@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>resources/app_icon.png</file>
+        <file>resources/exit_light.png</file>
+        <file>resources/icon.png</file>
+        <file>resources/main_page_dark.png</file>
+        <file>resources/main_page_light.PNG</file>
+        <file>resources/notification_dark.png</file>
+        <file>resources/notification_light.png</file>
+        <file>resources/theme_dark.png</file>
+        <file>resources/theme_light.png</file>
+        <file>resources/user_dark.png</file>
+        <file>resources/user_light.png</file>
+    </qresource>
+</RCC>

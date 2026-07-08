@@ -1,0 +1,43 @@
+2025-12-21 15:05:18,217 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 15:05:18,405 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 15:18:03,228 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 15:18:03,489 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 15:21:14,961 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 1839, Kur: 1.0
+2025-12-21 15:21:39,396 - INFO - logger.py:53 - Sipariş teslim alındı olarak işaretlendi. ID: 909
+2025-12-21 15:22:47,079 - INFO - logger.py:53 - Yeni teklif eklendi.
+2025-12-21 15:23:21,516 - INFO - logger.py:53 - Teklif silindi. ID: 2469
+2025-12-21 15:50:56,657 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 22:54:45,820 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 22:54:46,200 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 22:57:45,204 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 22:57:54,745 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 22:57:54,975 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:02:11,267 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:02:55,813 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:02:55,929 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:04:20,401 - INFO - logger.py:53 - Talep durumu Tamamlandı (4) yapıldı. Talep ID: 465
+2025-12-21 23:04:20,402 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 1153, Kur: 50.138
+2025-12-21 23:26:15,314 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:28:30,771 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:28:30,943 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:30:51,746 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:31:00,905 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:31:01,028 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:43:50,739 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:46:39,682 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:46:39,840 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:49:48,698 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:49:59,429 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:49:59,581 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:50:55,246 - INFO - logger.py:53 - Talep durumu Tamamlandı (4) yapıldı. Talep ID: 443
+2025-12-21 23:50:55,248 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 1281, Kur: 1.0
+2025-12-21 23:51:09,773 - INFO - logger.py:53 - Talep durumu Tamamlandı (4) yapıldı. Talep ID: 419
+2025-12-21 23:51:09,774 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 1219, Kur: 42.809
+2025-12-21 23:52:37,230 - INFO - logger.py:53 - Talep durumu Tamamlandı (4) yapıldı. Talep ID: 386
+2025-12-21 23:52:37,232 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 1123, Kur: 42.809
+2025-12-21 23:54:49,531 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-21 23:54:52,194 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:54:52,318 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:58:42,550 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-21 23:58:42,666 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-21 23:59:53,172 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0

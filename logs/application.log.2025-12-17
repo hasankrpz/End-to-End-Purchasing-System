@@ -1,0 +1,64 @@
+2025-12-17 00:03:59,879 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:04:03,973 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:04:04,301 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:07:13,117 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:07:17,766 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:07:18,123 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:10:51,081 - INFO - logger.py:53 - Talep Durumu eklendi: Tamamlandı
+2025-12-17 00:27:50,101 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:27:54,303 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:27:54,689 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:33:00,464 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:33:45,470 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:33:45,846 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:38:25,167 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:38:32,085 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:38:32,367 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:39:47,404 - INFO - logger.py:53 - Tedarikçi güncellendi. ID: 5, Kara Liste: 1
+2025-12-17 00:39:52,419 - INFO - logger.py:53 - Tedarikçi güncellendi. ID: 10, Kara Liste: 0
+2025-12-17 00:40:17,397 - INFO - logger.py:53 - Talep onaylandı. ID: 648
+2025-12-17 00:42:01,254 - INFO - logger.py:53 - Talep Durumu silindi ve ID'ler düzenlendi. Silinen ID: 3
+2025-12-17 00:43:33,611 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:43:38,062 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:43:38,375 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:45:53,495 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:46:14,319 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:46:14,723 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:47:21,965 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:47:26,747 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:47:27,013 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:48:03,933 - INFO - logger.py:53 - Talep Durumu eklendi: Tamamlandı
+2025-12-17 00:49:56,670 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:50:18,721 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:50:19,005 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:50:58,253 - INFO - logger.py:53 - Talep onaylandı. ID: 649
+2025-12-17 00:51:18,259 - INFO - logger.py:53 - Yeni teklif eklendi.
+2025-12-17 00:51:50,051 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 648
+2025-12-17 00:56:12,200 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 00:56:16,971 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 00:56:17,218 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 00:57:17,542 - INFO - logger.py:53 - Talep onaylandı. ID: 650
+2025-12-17 00:57:54,527 - INFO - logger.py:53 - Yeni teklif eklendi.
+2025-12-17 00:58:24,999 - INFO - logger.py:53 - Teklif onaylandı ve sipariş oluşturuldu. Teklif ID: 649
+2025-12-17 01:05:35,982 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 01:05:41,841 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:05:42,157 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:07:16,489 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 01:07:28,855 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:07:29,052 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:11:33,927 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 01:12:19,911 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:12:20,223 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:25:02,346 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 01:27:06,559 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:27:06,940 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:27:07,177 - ERROR - logger.py:59 - Kritik Hata: type object 'QAbstractItemView' has no attribute 'ButtonSymbols'
+2025-12-17 01:28:12,393 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:28:12,766 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:28:13,032 - ERROR - logger.py:59 - Kritik Hata: 'QDoubleSpinBox' object has no attribute 'setPlaceholderText'
+2025-12-17 01:28:48,601 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:28:48,717 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:33:55,592 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
+2025-12-17 01:33:59,925 - INFO - logger.py:53 - Uygulama başlatılıyor...
+2025-12-17 01:34:00,218 - INFO - logger.py:53 - Veritabanı bağlantısı başarılı.
+2025-12-17 01:50:06,260 - INFO - logger.py:53 - Uygulama kapatılıyor. Çıkış kodu: 0
